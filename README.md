@@ -1,5 +1,6 @@
 # BadAppleNX
 [![Youtube](https://github.com/user-attachments/assets/0f5757cc-558b-473d-b357-d49e31761cb4)](https://youtu.be/R6-2VF4Oic8?si=KQWt3Nj5rcuLlOWq)
+
 Click this picture to play Youtube.
 
 Play the video, "Bad Apple!!" on the Nintendo Switch
